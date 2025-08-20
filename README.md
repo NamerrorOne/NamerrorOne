@@ -17,7 +17,7 @@ Moile/Web developer
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namerrorone&layout=compact)](https://github.com/namerrorone/github-readme-stats)
-
+[![NamerrorOne's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NamerrorOne)](https://github.com/NamerrorOne/leetcode-stats)
 
 
 
